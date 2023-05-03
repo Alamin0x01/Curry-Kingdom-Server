@@ -5,13 +5,18 @@
     "name": "Mary Lee",
     "experience_years": 7,
     "num_recipes": 35,
-    "likes": 1200
+    "likes": 1200,
+    "recipes": " Macaroni and cheese, Fried chicken, Cheeseburger,",
+    "bio": "He has numerous Michelin stars and is known for his fiery personality on shows like 'Hell's Kitchen' and 'MasterChef'. Ramsay has also written several bestselling cookbooks and owns a number of restaurants around the world."
   },
   {
     "id": "102",
     "picture": "https://www.touchbistro.com/wp-content/uploads/2022/03/hire-a-chef-for-your-restaurant-thumbnail.jpg",
     "name": "Alex Chen",
     "experience_years": 12,
+    "recipes": " Hot dogs, Meatloaf, Pot roast",
+    "bio": "Alex Chen is a best known for her show 'Barefoot Contessa' on the Food Network. Garten has written numerous cookbooks, including 'Barefoot Contessa Parties!', and has won several James Beard Awards for her work. She is known for her simple, elegant recipes and her emphasis on using fresh, high-quality ingredients.",
+
     "num_recipes": 80,
     "likes": 2500
   },
@@ -20,7 +25,9 @@
     "picture": "https://www.touchbistro.com/wp-content/uploads/2022/03/hire-a-chef-for-your-restaurant-thumbnail.jpg",
     "name": "Tom Adams",
     "experience_years": 8,
+    "bio": "Tom Adams is a best known for her show 'Barefoot Contessa' on the Food Network. Garten has written numerous cookbooks, including 'Barefoot Contessa Parties!', and has won several James Beard Awards for her work. She is known for her simple, elegant recipes and her emphasis on using fresh, high-quality ingredients.",
     "num_recipes": 50,
+    "recipes": " Fried catfish, BBQ ribs, Clam chowder",
     "likes": 900
   },
   {
@@ -29,14 +36,18 @@
     "picture": "https://www.touchbistro.com/wp-content/uploads/2022/03/hire-a-chef-for-your-restaurant-thumbnail.jpg",
     "experience_years": 6,
     "num_recipes": 45,
-    "likes": 700
+    "bio": "He was known for his travel and food shows, including 'No Reservations' and 'Parts Unknown', as well as his bestselling memoir 'Kitchen Confidential'. Bourdain was a fierce advocate for culinary diversity and was deeply respected in the food world. He passed away in 2018.",
+    "likes": 700,
+    "recipes": " Macaroni and cheese, Fried chicken, Cheeseburger,"
   },
   {
     "id": "105",
     "picture": "https://www.touchbistro.com/wp-content/uploads/2022/03/hire-a-chef-for-your-restaurant-thumbnail.jpg",
     "name": "Peter Jones",
     "experience_years": 15,
+    "recipes": " Lobster roll, Philly cheesesteak, Reuben sandwich",
     "num_recipes": 100,
+    "bio": "Peter Jones has been featured on several television shows, including 'MasterChef' and 'Chef's Table', and has written two cookbooks, 'Momofuku Milk Bar' and 'Milk Bar: All About Cake'. She is known for her playful, whimsical approach to baking.",
     "likes": 4000
   },
   {
@@ -44,7 +55,9 @@
     "picture": "https://www.touchbistro.com/wp-content/uploads/2022/03/hire-a-chef-for-your-restaurant-thumbnail.jpg",
     "name": "Jones Peter ",
     "experience_years": 19,
+    "recipes": " Chicken and dumplings, Cornbread, Pancakes",
     "num_recipes": 110,
+    "bio": " He is the owner of Osteria Francescana, a three-Michelin-starred restaurant in Modena, Italy, that has been named the best restaurant in the world multiple times. Bottura is known for his innovative approach to Italian cuisine, and he has used his platform to promote sustainable agriculture and food waste reduction.",
     "likes": 4800
   },
   {
@@ -52,7 +65,9 @@
     "picture": "https://www.touchbistro.com/wp-content/uploads/2022/03/hire-a-chef-for-your-restaurant-thumbnail.jpg",
     "name": " Jones Fides",
     "experience_years": 20,
+    "recipes": " Biscuits and gravy, Cobb salad, Caesar salad",
     "num_recipes": 200,
+    "bio": "He is the owner of several delis and restaurants in London, and his cookbooks, including 'Plenty' and 'Jerusalem', have been international bestsellers. Ottolenghi is known for his vibrant, vegetable-forward recipes that draw inspiration from Middle Eastern and Mediterranean cuisines.",
     "likes": 4500
   },
   {
@@ -60,7 +75,9 @@
     "picture": "https://www.touchbistro.com/wp-content/uploads/2022/03/hire-a-chef-for-your-restaurant-thumbnail.jpg",
     "name": "Emily Chang",
     "experience_years": 5,
+    "recipes": " Macaroni and cheese, Fried chicken, Cheeseburger,",
     "num_recipes": 30,
+    "bio": " Emily Chang is a best known for her show 'Barefoot Contessa' on the Food Network. Garten has written numerous cookbooks, including 'Barefoot Contessa Parties!', and has won several James Beard Awards for her work. She is known for her simple, elegant recipes and her emphasis on using fresh, high-quality ingredients.",
     "likes": 600
   }
 ]
