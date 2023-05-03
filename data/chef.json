@@ -1,7 +1,7 @@
 [
   {
     "id": "101",
-    "picture": "https://example.com/chef1.jpg",
+    "picture": "https://www.touchbistro.com/wp-content/uploads/2022/03/hire-a-chef-for-your-restaurant-thumbnail.jpg",
     "name": "Mary Lee",
     "experience_years": 7,
     "num_recipes": 35,
@@ -9,7 +9,7 @@
   },
   {
     "id": "102",
-    "picture": "https://example.com/chef2.jpg",
+    "picture": "https://www.touchbistro.com/wp-content/uploads/2022/03/hire-a-chef-for-your-restaurant-thumbnail.jpg",
     "name": "Alex Chen",
     "experience_years": 12,
     "num_recipes": 80,
@@ -17,7 +17,7 @@
   },
   {
     "id": "103",
-    "picture": "https://example.com/chef3.jpg",
+    "picture": "https://www.touchbistro.com/wp-content/uploads/2022/03/hire-a-chef-for-your-restaurant-thumbnail.jpg",
     "name": "Tom Adams",
     "experience_years": 8,
     "num_recipes": 50,
@@ -25,15 +25,15 @@
   },
   {
     "id": "104",
-    "picture": "https://example.com/chef4.jpg",
-    "name": "Sara Johnson",
+    "name": "Emily Chang",
+    "picture": "https://www.touchbistro.com/wp-content/uploads/2022/03/hire-a-chef-for-your-restaurant-thumbnail.jpg",
     "experience_years": 6,
     "num_recipes": 45,
     "likes": 700
   },
   {
     "id": "105",
-    "picture": "https://example.com/chef5.jpg",
+    "picture": "https://www.touchbistro.com/wp-content/uploads/2022/03/hire-a-chef-for-your-restaurant-thumbnail.jpg",
     "name": "Peter Jones",
     "experience_years": 15,
     "num_recipes": 100,
@@ -41,7 +41,23 @@
   },
   {
     "id": "106",
-    "picture": "https://example.com/chef6.jpg",
+    "picture": "https://www.touchbistro.com/wp-content/uploads/2022/03/hire-a-chef-for-your-restaurant-thumbnail.jpg",
+    "name": "Jones Peter ",
+    "experience_years": 19,
+    "num_recipes": 110,
+    "likes": 4800
+  },
+  {
+    "id": "107",
+    "picture": "https://www.touchbistro.com/wp-content/uploads/2022/03/hire-a-chef-for-your-restaurant-thumbnail.jpg",
+    "name": " Jones Fides",
+    "experience_years": 20,
+    "num_recipes": 200,
+    "likes": 4500
+  },
+  {
+    "id": "108",
+    "picture": "https://www.touchbistro.com/wp-content/uploads/2022/03/hire-a-chef-for-your-restaurant-thumbnail.jpg",
     "name": "Emily Chang",
     "experience_years": 5,
     "num_recipes": 30,
