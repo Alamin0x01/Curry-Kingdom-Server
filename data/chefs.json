@@ -1,0 +1,104 @@
+[
+  {
+    "id": "1",
+    "picture": "https://i.ibb.co/NCXYWTM/rsz-6452d023edbf1.png",
+    "name": "Mary Lee",
+    "experience_years": 7,
+    "num_recipes": 35,
+    "likes": 1200,
+    "rating": 4.5,
+    "recipes": " Macaroni and cheese",
+    "recipes1": " Fried chicken",
+    "recipes2": " Cheeseburger",
+    "recipes_": " https://pinkowlkitchen.com/wp-content/uploads/2022/06/southern-oven-fried-catfish-5.jpg",
+    "recipes1_pic": " https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/11/2/0/DV1510H_fried-chicken-recipe-10_s4x3.jpg.rend.hgtvcom.826.620.suffix/1568222255998.jpeg",
+    "recipes2_pic1": " https://cdn.shortpixel.ai/spai/w_563+q_lossy+ret_img+to_webp/https://www.braums.com/wp-content/uploads/2018/04/Cheeseburgers-1.jpg",
+    "bio": "He has numerous Michelin stars and is known for his fiery personality on shows like 'Hell's Kitchen' and 'MasterChef'. Ramsay has also written several bestselling cookbooks and owns a number of restaurants around the world."
+  },
+  {
+    "id": "2",
+    "picture": "https://i.ibb.co/921X73R/rsz-6452d0506e8b9.png",
+    "name": "Alex Chen",
+    "experience_years": 12,
+    "rating": 4.5,
+    "recipes": " Hot dogs",
+    "recipes1": " Meatloaf",
+    "recipes2": " Pot roast",
+    "recipes_": " https://playswellwithbutter.com/wp-content/uploads/2022/05/Grilled-Hot-Dogs-How-to-Grill-Hot-Dogs-35-960x1440.jpg",
+    "recipes1_pic": "https://www.budgetbytes.com/wp-content/uploads/2021/09/Classic-Meatloaf-V1-800x1067.jpg",
+    "recipes2_pic1": "https://www.andiemitchell.com/wp-content/uploads/2019/09/traditional_pot_roast_recipe-3.jpg ",
+
+    "bio": "Alex Chen is a best known for her show 'Barefoot Contessa' on the Food Network. Garten has written numerous cookbooks, including 'Barefoot Contessa Parties!', and has won several James Beard Awards for her work. She is known for her simple, elegant recipes and her emphasis on using fresh, high-quality ingredients.",
+
+    "num_recipes": 80,
+    "likes": 2500
+  },
+  {
+    "id": "3",
+    "picture": "https://i.ibb.co/9np4xKL/rsz-6452d08082ec2.png",
+    "name": "Tom Adams",
+    "experience_years": 8,
+    "recipes": " Fried catfish",
+    "recipes1": " BBQ ribs",
+    "recipes2": " Clam chowder",
+    "recipes_": " https://pinkowlkitchen.com/wp-content/uploads/2022/06/southern-oven-fried-catfish-5.jpg",
+    "recipes1_pic": " https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/11/2/0/DV1510H_fried-chicken-recipe-10_s4x3.jpg.rend.hgtvcom.826.620.suffix/1568222255998.jpeg",
+    "recipes2_pic1": " https://cdn.shortpixel.ai/spai/w_563+q_lossy+ret_img+to_webp/https://www.braums.com/wp-content/uploads/2018/04/Cheeseburgers-1.jpg",
+    "bio": "Tom Adams is a best known for her show 'Barefoot Contessa' on the Food Network. Garten has written numerous cookbooks, including 'Barefoot Contessa Parties!', and has won several James Beard Awards for her work. She is known for her simple, elegant recipes and her emphasis on using fresh, high-quality ingredients.",
+    "num_recipes": 50,
+    "rating": 4.5,
+
+    "likes": 900
+  },
+  {
+    "id": "4",
+    "name": "Emily Chang",
+    "picture": "https://i.ibb.co/H448Xjx/rsz-6452d3ea3bcce.png",
+    "experience_years": 6,
+    "num_recipes": 45,
+    "bio": "He was known for his travel and food shows, including 'No Reservations' and 'Parts Unknown', as well as his bestselling memoir 'Kitchen Confidential'. Bourdain was a fierce advocate for culinary diversity and was deeply respected in the food world. He passed away in 2018.",
+    "likes": 700,
+    "recipes": " Macaroni and cheese",
+    "recipes1": "  Fried chicken",
+    "recipes2": " Reuben sandwich",
+    "recipes_": " https://pinkowlkitchen.com/wp-content/uploads/2022/06/southern-oven-fried-catfish-5.jpg",
+    "recipes1_pic": " https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/11/2/0/DV1510H_fried-chicken-recipe-10_s4x3.jpg.rend.hgtvcom.826.620.suffix/1568222255998.jpeg",
+    "recipes2_pic1": " https://cdn.shortpixel.ai/spai/w_563+q_lossy+ret_img+to_webp/https://www.braums.com/wp-content/uploads/2018/04/Cheeseburgers-1.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": "5",
+    "picture": "https://www.touchbistro.com/wp-content/uploads/2022/03/hire-a-chef-for-your-restaurant-thumbnail.jpg",
+    "name": "Elena mich",
+    "experience_years": 15,
+
+    "num_recipes": 100,
+    "recipes": "  Philly cheesesteak",
+    "recipes1": "   Lobster roll",
+    "recipes2": " Reuben sandwich",
+    "recipes_": " https://pinkowlkitchen.com/wp-content/uploads/2022/06/southern-oven-fried-catfish-5.jpg",
+    "recipes1_pic": " https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/11/2/0/DV1510H_fried-chicken-recipe-10_s4x3.jpg.rend.hgtvcom.826.620.suffix/1568222255998.jpeg",
+    "recipes2_pic1": " https://cdn.shortpixel.ai/spai/w_563+q_lossy+ret_img+to_webp/https://www.braums.com/wp-content/uploads/2018/04/Cheeseburgers-1.jpg",
+    "rating": 4.5,
+    "bio": "Peter Jones has been featured on several television shows, including 'MasterChef' and 'Chef's Table', and has written two cookbooks, 'Momofuku Milk Bar' and 'Milk Bar: All About Cake'. She is known for her playful, whimsical approach to baking.",
+    "likes": 4000
+  },
+  {
+    "id": "6",
+    "picture": "https://i.ibb.co/WkDtccF/rsz-6452cfbc80b3a.png",
+    "name": "Jones Peter ",
+    "experience_years": 19,
+
+    "recipes": "  Chicken and dumplings",
+    "recipes1": "   Lobster roll",
+    "recipes2": " Cornbread",
+    "recipes_": " https://pinkowlkitchen.com/wp-content/uploads/2022/06/southern-oven-fried-catfish-5.jpg",
+    "recipes1_pic": " https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/11/2/0/DV1510H_fried-chicken-recipe-10_s4x3.jpg.rend.hgtvcom.826.620.suffix/1568222255998.jpeg",
+    "recipes2_pic1": " https://cdn.shortpixel.ai/spai/w_563+q_lossy+ret_img+to_webp/https://www.braums.com/wp-content/uploads/2018/04/Cheeseburgers-1.jpg",
+
+    "num_recipes": 110,
+    "bio": " He is the owner of Osteria Francescana, a three-Michelin-starred restaurant in Modena, Italy, that has been named the best restaurant in the world multiple times. Bottura is known for his innovative approach to Italian cuisine, and he has used his platform to promote sustainable agriculture and food waste reduction.",
+    "rating": 4.5,
+    "likes": 4800
+  }
+]

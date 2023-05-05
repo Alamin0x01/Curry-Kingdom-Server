@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Modern recipes and cooking advice",
+    "thumbnail": "https://i.ibb.co/QjG6x25/brooke-lark-j-UPOXXRNdc-A-unsplash.jpg",
+    "details": "A recipe is a formula of ingredients and a list of instructions for creating prepared foods. It is used to control quality, quantity, and food costs in a foodservice operation."
+  },
+  {
+    "id": 2,
+    "name": "Recipe Advice - How To Cooking Tips",
+    "thumbnail": "https://i.ibb.co/YZHW5Lw/s-o-c-i-a-l-c-u-t-hwy3-W3q-Fjg-M-unsplash.jpg",
+    "details": "The best way to ensure that you have what you need to complete the recipe is to measure out all the ingredients before you start to mix them together."
+  },
+  {
+    "id": 3,
+    "name": "Easy Cooking Tips and How-Tos",
+    "thumbnail": "https://i.ibb.co/fYJp57v/katie-smith-u-Qs1802-D0-CQ-unsplash.jpg",
+    "details": "Every guide like this starts out with the same advice to control quality, quantity, and food costs in a foodservice operation."
+  }
+]
